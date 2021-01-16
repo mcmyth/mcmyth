@@ -12,7 +12,7 @@ I'm MC Myth, a developer from China.
 
 <p>
 <details>
-<summary>GitHub统计信息</summary>
+<summary>Github statistics</summary>
 
 <br/>
 
