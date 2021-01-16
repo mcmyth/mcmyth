@@ -9,6 +9,8 @@ I'm MC Myth, a developer from China.
 * 💬Join my chat group on [Tencent QQ](https://jq.qq.com/?_wv=1027&k=ZjCvIlya) or [Telegram](https://t.me/joinchat/TA_WvJgZUMR2xBPj).
 * [🤔](https://emojipedia.org/thinking-face/)Ask me about anything [here](https://github.com/mcmyth/mcmyth/issues).
 
+
+<p>
 <details>
 <summary>GitHub统计信息</summary>
 
@@ -29,3 +31,4 @@ I'm MC Myth, a developer from China.
 [![mcmyth's contribution graph as a Game of Life](https://github4life.herokuapp.com/mcmyth.gif)](https://github4life.herokuapp.com/mcmyth)
 
 </details>
+</p>
